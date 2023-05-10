@@ -1,6 +1,6 @@
 Projeto interno da empresa que atuo atualmente.
 # Automation.HealthXpert
-Demonstrativo teste exploratório:
+O objetivo desta automação era demonstrar como o frontend iria se comportar.
 
 Cadastro do Paciente:
 https://user-images.githubusercontent.com/119140528/208565762-c449680a-9e49-4c16-aa1b-c21c9f2446b5.mp4
